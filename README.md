@@ -4,7 +4,10 @@
 ### Installation
 
 ```
+// nodejs
 npm install distributor-js --save
+// html
+distributor-js.min.js
 ```
 
 ### usage
@@ -88,6 +91,9 @@ npm install distributor-js --save
     // {headerStyle: {…}, textStyle: {…}}
     // {backgroundColor: "#333"}
     // background-color: #333; color: #ccc
+
+## Compatibility
+[Object.defineProperties Compatibility](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperties#Browser_compatibility)
 
 ## License
 
