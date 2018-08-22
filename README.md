@@ -7,7 +7,7 @@
 // nodejs
 npm install distributor-js --save
 // html
-distributor-js.min.js
+[distributor-js.min.js](./distributor-js.min.js)
 ```
 
 ### usage
