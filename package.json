@@ -1,0 +1,24 @@
+{
+  "name": "distributor-js",
+  "version": "1.0.0",
+  "description": "distributor-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qw110946/distributor-js.git"
+  },
+  "keywords": [
+    "js",
+    "i18n",
+    "distributor"
+  ],
+  "author": "yzh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qw110946/distributor-js/issues"
+  },
+  "homepage": "https://github.com/qw110946/distributor-js#readme"
+}
