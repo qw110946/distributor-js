@@ -3,11 +3,13 @@
 
 ### Installation
 
+nodejs
 ```
-// nodejs
 npm install distributor-js --save
-// html
-[distributor-js.min.js](./distributor-js.min.js)
+```
+html
+```
+<script src="https://qw110946.github.io/distributor-js/distributor-js.min.js"></script>
 ```
 
 ### usage
