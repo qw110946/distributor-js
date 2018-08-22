@@ -97,4 +97,4 @@ distributor-js.min.js
 
 ## License
 
-Day.js is licensed under a [MIT  License](./LICENSE).
+distributor-js is licensed under a [MIT  License](./LICENSE).
