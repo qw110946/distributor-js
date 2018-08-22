@@ -9,7 +9,7 @@ npm install distributor-js --save
 
 ### usage
 
-    var distributor = require('./index');
+    var distributor = require('distributor-js');
 
     var i18n = distributor({
     'cn': {
